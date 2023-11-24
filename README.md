@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasrupasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="jasrupasinghe" /> </p>
 
-- 🔭 I’m currently working on [Ai MeHeMa](https://github.com/thilina321/projectmehema)
+- 🔭 I’m currently working on [AI MeHeMa Mobile Application](https://github.com/thilina321/projectmehema)
 
 - 🌱 I’m currently learning **flutter and react.js**
 
