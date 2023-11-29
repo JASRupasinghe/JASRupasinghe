@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayani Rupasinghe</h1>
 <h3 align="center">A passionate frontend developer Student from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src=https://images.app.goo.gl/8SMtsyuFGVxpQ7HQA>
+<img align="right" width="400" src=https://images.app.goo.gl/8SMtsyuFGVxpQ7HQA.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasrupasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="jasrupasinghe" /> </p>
 
